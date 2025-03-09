@@ -1,0 +1,6 @@
+            - name: Message to Whatsapp
+  # You may pin to the exact commit or the version.
+  # uses: zilurrane/whatsapp-actions@5320b6a9d65c77f3ca3d52b379b8ea461d478f13
+  uses: zilurrane/whatsapp-actions@0.0.1
+
+          
